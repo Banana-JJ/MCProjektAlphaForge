@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H5SVOK9)
 # MCProjektAlpha Modpack
 
 Welcome to the MCProjektAlpha Modpack repository! This modpack offers an enhanced Minecraft experience with a curated selection of mods, bringing improvements to landscapes, technology, and more.
